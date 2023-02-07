@@ -1,7 +1,8 @@
 # quat1024
 
 Self-taught Java tinkerer.  
-https://highlysuspect.agency/
+🐉 https://highlysuspect.agency/  
+📨 [quat@highlysuspect.agency](mailto:quat@highlysuspect.agency)
 
 ## Things I'm poking at
 
@@ -12,9 +13,9 @@ https://highlysuspect.agency/
 
 ## Let's talk
 
-To ask a question about my Minecraft mods, please file an issue, join my [public Discord](https://highlysuspect.agency/discord), or send a [CurseForge message](https://www.curseforge.com/members/quat1024/projects).
+📨 [quat@highlysuspect.agency](mailto:quat@highlysuspect.agency)
 
-Yeah I gotta have some more professional contact methods :sweat_smile:
+To ask a question about my Minecraft mods, please file an issue, join my [public Discord](https://highlysuspect.agency/discord), or send a [CurseForge message](https://www.curseforge.com/members/quat1024/projects).
 
 ---
 
