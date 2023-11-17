@@ -1,6 +1,6 @@
 # quat1024
 
-Self-taught Java tinkerer.  
+Java tinkerer.  
 🐉 https://highlysuspect.agency/  
 📨 [quat@highlysuspect.agency](mailto:quat@highlysuspect.agency)
 
@@ -22,17 +22,6 @@ To ask a question about my Minecraft mods, please file an issue, join my [public
 ### Minecraft modding resources
 
 Check the [mc-modding tag on my blog](https://highlysuspect.agency/tags/mc-modding/) for more articles. There are also notes in [my Voldeloom fork](https://github.com/CrackedPolishedBlackstoneBricksMC/voldeloom/tree/disaster-time/quat_notes) about vintage Minecraft toolchains and tech.
-
-#### Update guides and new features
-* [how 2 angry lex.md](https://highlysuspect.agency/posts/how_2_angry_lex) (1.12.2 Forge coremodding)
-* [Overview of Resource Reloading in 1.14.4/Fabric](https://highlysuspect.agency/posts/we_out_here_reloadin)
-* [Fabric 1.16 Datagens](https://highlysuspect.agency/posts/fabric_datagens) (this was before Fabric API added utilities)
-* [Updating to Fabric 1.17 notes](https://highlysuspect.agency/posts/one_point_seventeen_notes)
-* [Updating to Fabric 1.18 notes](https://highlysuspect.agency/posts/one_point_eightteen_notes)
-
-#### Tooling woes
-* [Fix old ForgeGradles being broke in IntelliJ](https://highlysuspect.agency/posts/intellij_fix_it) (old ForgeGradles)
-* ["Unable to get Windows mutable environment variable map"](https://highlysuspect.agency/posts/unable_to_get_windows_mutable_environment_variable_map) (handling java 16 growing pains)
 
 <!--
 **quat1024/quat1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
