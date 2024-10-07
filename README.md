@@ -21,7 +21,7 @@ To ask a question about my Minecraft mods, please file an issue, join my [public
 
 ### Minecraft modding resources
 
-Check the [mc-modding tag on my blog](https://highlysuspect.agency/tags/mc-modding/) for more articles. There are also notes in [my Voldeloom fork](https://github.com/CrackedPolishedBlackstoneBricksMC/voldeloom/tree/disaster-time/quat_notes) about vintage Minecraft toolchains and tech.
+Check the [my blog](https://highlysuspect.agency/) for more articles. There are also notes in [my Voldeloom fork](https://github.com/CrackedPolishedBlackstoneBricksMC/voldeloom/tree/disaster-time/quat_notes) about vintage Minecraft toolchains and tech.
 
 <!--
 **quat1024/quat1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
