@@ -1,8 +1,8 @@
 # quat1024
 
-Java tinkerer, OSU undergrad.
+Java tinkerer, OSU undergrad.  
 🐉 https://highlysuspect.agency/  
-📨 [quat@highlysuspect.agency](mailto:quat@highlysuspect.agency)
+📨 [quat@highlysuspect.agency](mailto:quat@highlysuspect.agency)  
 📩 [CurseForge](https://www.curseforge.com/members/quat/projects), [Modrinth](https://modrinth.com/user/quat)
 
 ## Things I'm poking at
